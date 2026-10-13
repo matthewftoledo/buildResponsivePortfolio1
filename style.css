@@ -471,4 +471,8 @@ section {
     margin: 5rem 0;
     gap: 5rem;
   }
+  .home-content {
+    align-items: center;
+    text-align: center;
+  }
 }
