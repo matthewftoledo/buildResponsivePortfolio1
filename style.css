@@ -475,4 +475,19 @@ section {
     align-items: center;
     text-align: center;
   }
+  .home-img img {
+    text-align: center;
+    margin: 2rem 0;
+  }
+  .about {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  .about h2 {
+    text-align: center;
+    margin: 2rem 0;
+  }
+  .about img {
+    width: 52vw;
+  }
 }
